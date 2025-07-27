@@ -3,7 +3,7 @@
   "version": "4.1.0",
   "description": "An admin theme built with Bootstrap, sass and PugJs",
   "devDependencies": {
-    "autoprefixer": "^9.8.8",
+    "autoprefixer": "^10.4.21",
     "grunt": "^1.6.1",
     "grunt-contrib-cssmin": "^5.0.0",
     "grunt-contrib-pug": "^3.0.0",
